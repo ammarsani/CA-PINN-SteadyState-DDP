@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "CA-PINN for Steady-State Ion-Coupled Drift-Diffusion-Poisson Modeling"
+type: software
+version: "1.0"
+license: MIT
+authors:
+  - family-names: Ibrahim
+    given-names: Ammar Sani
+  - family-names: Malekjani
+    given-names: Narjes
+  - family-names: Anitescu
+    given-names: Cosmin
+  - family-names: Chaipunya
+    given-names: Parin
+  - family-names: Siripongwutikorn
+    given-names: Peerapon
+  - family-names: Thongprong
+    given-names: Non
+repository-code: "https://github.com/ammarsani/CA-PINN-SteadyState-DDP"
+preferred-citation:
+  type: article
+  title: "A Conservation-Aware Physics-Informed Neural Network for Steady-State Ion-Coupled Drift-Diffusion-Poisson Modeling of Perovskite Devices"
+  authors:
+    - family-names: Ibrahim
+      given-names: Ammar Sani
+    - family-names: Malekjani
+      given-names: Narjes
+    - family-names: Anitescu
+      given-names: Cosmin
+    - family-names: Chaipunya
+      given-names: Parin
+    - family-names: Siripongwutikorn
+      given-names: Peerapon
+    - family-names: Thongprong
+      given-names: Non
+  year: 2026
+  status: submitted

@@ -1,0 +1,4 @@
+variable,mean_relative_L2_error,std_relative_L2_error,n_runs
+"Electrostatic potential, psi",0.006226952353921467,0.001052088920883776,3
+"Electron density, n",0.004065924844698467,0.0006505022787314659,3
+"Ion density, I",0.0077503554659327,0.0006416572032847409,3

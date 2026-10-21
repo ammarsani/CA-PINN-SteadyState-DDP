@@ -1,0 +1,2 @@
+num_epoch_adam,num_epoch_lbfgs_max,adam_runtime_s,lbfgs_runtime_s,total_runtime_s,lbfgs_converged,lbfgs_failed,lbfgs_iterations,lbfgs_objective_evaluations,lbfgs_final_objective
+10000,10000,613.1641335487366,1400.4117214679718,2013.5758550167084,False,False,10000,29078,5.49678114722546e-06

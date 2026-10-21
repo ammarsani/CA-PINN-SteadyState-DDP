@@ -1,0 +1,12 @@
+case_name,formulation,density_representation,conservation,P0,phi,activation,hidden_layers,neurons,W_cons,metric,mean,std,n_runs
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,relL2_psi,0.012493879427520236,0.006834589111940412,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,relL2_n,0.012180388993654647,0.006846256604354578,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,relL2_I,0.015857809004488584,0.007509516341324684,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,Imean_PINN,9.985514262002581e+20,4.275190130477709e+18,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,Imean_FD,1e+21,0.0,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,Imean_rel_error,0.003325092699645324,0.0022000994386231674,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,min_n,4.407093249534616e+21,9.618781424112432e+19,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,min_I,1.579753007316299e+20,1.1589409961559283e+18,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,pinn_runtime_s,1830.4407680034637,9.57317711184187,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,fd_runtime_s,59.01634748776754,0.9156090397853349,3
+ablation_direct_cons,Direct density with conservation,direct,True,1e+21,0.1,tanh,4,40,100.0,case_runtime_s,1892.5705618858337,9.327357537149519,3

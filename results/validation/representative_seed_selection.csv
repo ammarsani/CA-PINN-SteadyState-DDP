@@ -1,0 +1,2 @@
+representative_seed,representative_tag,selection_rule,aggregate_relL2
+2024,P0_1e+21_phi0.10_tanh_4x40_adam2000_lbfgs10000_seed2024,aggregate relative-L2 score closest to three-seed median,0.005641508487563167

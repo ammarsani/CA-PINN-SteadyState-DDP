@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.weights.h5
+*.png
+.DS_Store

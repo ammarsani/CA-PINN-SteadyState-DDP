@@ -1,0 +1,12 @@
+case_name,formulation,density_representation,conservation,P0,phi,activation,hidden_layers,neurons,W_cons,metric,mean,std,n_runs
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,relL2_psi,0.0034240281027530244,0.002989724237094339,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,relL2_n,0.0024675820163995083,0.0018546892323052454,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,relL2_I,0.004833002170756165,0.0028875585257621427,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,Imean_PINN,9.982155474795583e+20,2.1569030874516125e+17,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,Imean_FD,1e+21,0.0,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,Imean_rel_error,0.0017844525204417196,0.00021569030874516132,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,min_n,4.5020740485332625e+21,4.959260314816999e+19,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,min_I,1.5778966065625947e+20,9.724275889948641e+17,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,pinn_runtime_s,1534.115812222163,8.291386946619657,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,fd_runtime_s,59.245826164881386,0.23499349737963404,3
+ablation_ca_pinn,Log density with conservation,log,True,1e+21,0.1,tanh,4,40,100.0,case_runtime_s,1596.8103380997975,8.434846322955725,3

@@ -1,0 +1,8 @@
+# Versions used for the paper (Google Colab, NVIDIA T4 GPU)
+tensorflow==2.20.0
+tensorflow-probability==0.25.0
+numpy>=2.0
+scipy
+pandas
+matplotlib
+jupyterlab

@@ -1,0 +1,4 @@
+intervals,nodes,dx_nm,runtime_s,output_dir
+250,251,2.0,25.45724081993103,results/fd_grid_independence/L_250_dx_2nm
+500,501,1.0,64.25827383995056,results/fd_grid_independence/L_500_dx_1nm
+1000,1001,0.5,278.0224173069,results/fd_grid_independence/L_1000_dx_0.5nm
